@@ -39,4 +39,4 @@ Deleting Your Data
 If your data are no longer required for the aforementioned purposes, we will delete them. if you want to delete all your data, please contact us by email: jousefmahdy@gmail.com.
 
 Amendments to this Privacy Policy
-We reserve the right to amend this Privacy Policy. You can call up the current version of the Privacy Policy at any time at: https://www.focustodo.cn/privacy-policy.
+We reserve the right to amend this Privacy Policy. You can call up the current version of the Privacy Policy at any time https://github.com/YousefMahdy/TODO_App/blob/main/privacy-policy.md.
