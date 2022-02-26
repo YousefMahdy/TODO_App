@@ -2,7 +2,10 @@
 
 To-do App (TODO)   using local database sqflite, BLOC design pattern ,is a task management app to help you stay organized and manage your day-to-day
 
-![1](https://user-images.githubusercontent.com/37985055/155850802-1539f708-1262-4527-8628-296ff1b3d985.jpeg)  ![2](https://user-images.githubusercontent.com/37985055/155850801-3050f597-59ca-4a44-b03d-586e00be35d6.jpeg)
-![3](https://user-images.githubusercontent.com/37985055/155850800-b74a2caf-aac9-43f7-bfc2-f9e70ddee369.jpeg)  ![4](https://user-images.githubusercontent.com/37985055/155850798-bdaba92c-8c67-4bb8-b23a-aab08214e923.jpeg)
 
-![5](https://user-images.githubusercontent.com/37985055/155850799-56a7e5ff-fadf-461b-9ab2-0ddb0be65014.jpeg) ![6](https://user-images.githubusercontent.com/37985055/155850797-a53cfa75-c1d0-479c-bd23-7391cc24a0ed.jpeg)  
+![1](https://user-images.githubusercontent.com/37985055/155852228-1a85c2f2-df1e-4948-bd16-17c20c39d66c.png)
+![2](https://user-images.githubusercontent.com/37985055/155852229-4c8ff02b-88b3-4a79-9f42-df9156be6eec.jpeg)
+![3](https://user-images.githubusercontent.com/37985055/155852230-806728c1-8933-463b-8cb9-336f23c7ad0a.jpeg)
+![4](https://user-images.githubusercontent.com/37985055/155852231-3db3b350-82ae-49b8-a110-ce55cf5d383f.jpeg)
+![5](https://user-images.githubusercontent.com/37985055/155852225-e16aff4f-dc24-4d8d-8852-ed281f6a6967.jpeg)
+
