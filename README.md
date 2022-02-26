@@ -1,6 +1,6 @@
 # TODO
 
-A new Flutter project.
+To-do App (TODO)   using local database sqflite, BLOC design pattern ,is a task management app to help you stay organized and manage your day-to-day
 
 ![1](https://user-images.githubusercontent.com/37985055/155850802-1539f708-1262-4527-8628-296ff1b3d985.jpeg)  ![2](https://user-images.githubusercontent.com/37985055/155850801-3050f597-59ca-4a44-b03d-586e00be35d6.jpeg)
 ![3](https://user-images.githubusercontent.com/37985055/155850800-b74a2caf-aac9-43f7-bfc2-f9e70ddee369.jpeg)  ![4](https://user-images.githubusercontent.com/37985055/155850798-bdaba92c-8c67-4bb8-b23a-aab08214e923.jpeg)
