@@ -15,7 +15,7 @@ class HomeLayout extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
-      create: (BuildContext context) => AppCubit()..creatDatabase(),
+      create: (BuildContext context) => AppCubit()..createDatabase(),
       child: BlocConsumer<AppCubit, AppStetes>(
         listener: (context, state) {
           if(state is AppInsertDataBaseState){
@@ -44,7 +44,7 @@ class HomeLayout extends StatelessWidget {
 
             floatingActionButton: FloatingActionButton(
               onPressed: () {
-                if (!cubit.isButtomSheetShown) {
+                if (!cubit.isBottomSheetShown) {
                   scaffoldKey.currentState!
                       .showBottomSheet(
                         (context) => Container(
@@ -125,9 +125,9 @@ class HomeLayout extends StatelessWidget {
                       )
                       .closed
                       .then((value) {
-                    cubit.changButtomSheetState(isButomSheetShown: false);
+                    cubit.changBottomSheetState(isBotomSheetShown: false);
                   });
-                  cubit.changButtomSheetState(isButomSheetShown: true);
+                  cubit.changBottomSheetState(isBotomSheetShown: true);
                 } else {
                   if (form_Key.currentState!.validate()) {
                     cubit.insertToDatabase(
@@ -139,14 +139,14 @@ class HomeLayout extends StatelessWidget {
                     dateController.clear();
 
                  //   Navigator.pop(context);
-                    cubit.isButtomSheetShown = false;
+                    cubit.isBottomSheetShown = false;
                     // setState(() {});
                   }
                 }
                 // insertToDatabase();
               },
               child: Icon(
-                cubit.isButtomSheetShown ? Icons.add : Icons.edit,
+                cubit.isBottomSheetShown ? Icons.add : Icons.edit,
               ),
             ),
             bottomNavigationBar: BottomNavigationBar(

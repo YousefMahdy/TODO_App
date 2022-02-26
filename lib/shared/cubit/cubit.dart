@@ -17,23 +17,23 @@ class AppCubit extends Cubit<AppStetes> {
   late List<Map> doneTasks = [];
   late List<Map> archiveTasks = [];
   late Database database;
-  bool isButtomSheetShown = false;
+  bool isBottomSheetShown = false;
 
   static AppCubit get(context) => BlocProvider.of(context);
 
   changIndex(index) {
     current_Index = index;
-    emit(AppChangButtomNavBarStste());
+    emit(AppChangBottomNavBarState());
   }
 
-  changButtomSheetState({
-    required bool isButomSheetShown,
+  changBottomSheetState({
+    required bool isBotomSheetShown,
   }) {
-    isButtomSheetShown = isButomSheetShown;
-    emit(ChangButtomSheetState());
+    isBottomSheetShown = isBotomSheetShown;
+    emit(ChangBottomSheetState());
   }
 
-  void creatDatabase() async {
+  void createDatabase() async {
     openDatabase("todo.db", version: 1, onCreate: (database, version) {
       print("data created");
       database
