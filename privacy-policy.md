@@ -126,5 +126,4 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 By email: jousefmahdy@gmail.com
 
-Amendments to this Privacy Policy
-We reserve the right to amend this Privacy Policy. You can call up the current version of the Privacy Policy at any time https://github.com/YousefMahdy/TODO_App/blob/main/privacy-policy.md.
+
