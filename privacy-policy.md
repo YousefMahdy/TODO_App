@@ -1,4 +1,4 @@
-##Privacy Policy
+## Privacy Policy
 
 We regard the protection and the confidentiality of your data as very important. In this Privacy Policy, we would like to tell you which personal data we collect and what we use it for.
 Below, we'll tells you about the type and extent of and the purposes for which personal data are collected and used. You can call up this information on our website anytime.
